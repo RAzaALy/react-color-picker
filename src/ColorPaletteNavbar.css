@@ -1,0 +1,22 @@
+.rc-slider-track {
+  background: transparent;
+}
+
+.rc-slider-rail {
+  height: 5px;
+}
+
+.rc-slider-handle,
+.rc-slider-handle:focus,
+.rc-slider-handle:active,
+.rc-slider-handle:hover {
+  outline: none;
+  box-shadow: none;
+  background: green;
+  border: 2px solid green;
+}
+
+.ColorPaletteNavbar-Select {
+  margin-left: auto;
+  margin-right: 16px;
+}
